@@ -1,0 +1,1370 @@
+[
+  {
+    "name": "Aben Chaudhary",
+    "exam_roll": 21075049,
+    "courses": [
+      {
+        "code": "CMP 350",
+        "title": "Simulation and Modeling",
+        "grade": "F"
+      },
+      {
+        "code": "CMM 340",
+        "title": "Data Communication",
+        "grade": "F"
+      },
+      {
+        "code": "CMP 320",
+        "title": "Object Oriented Software Engineering",
+        "grade": "C-"
+      },
+      {
+        "code": "ELX 312",
+        "title": "Embedded Systems",
+        "grade": "C-"
+      },
+      {
+        "code": "CMP 390",
+        "title": "Project II",
+        "grade": "A-"
+      },
+      {
+        "code": "CMP 417",
+        "title": "Advance Java",
+        "grade": "F"
+      }
+    ],
+    "sgpa": "-",
+    "status": "Fail"
+  },
+  {
+    "name": "Anil Bhul",
+    "exam_roll": 21075050,
+    "courses": [
+      {
+        "code": "CMP 350",
+        "title": "Simulation and Modeling",
+        "grade": "A-"
+      },
+      {
+        "code": "CMM 340",
+        "title": "Data Communication",
+        "grade": "A-"
+      },
+      {
+        "code": "CMP 320",
+        "title": "Object Oriented Software Engineering",
+        "grade": "A-"
+      },
+      {
+        "code": "ELX 312",
+        "title": "Embedded Systems",
+        "grade": "A"
+      },
+      {
+        "code": "CMP 390",
+        "title": "Project II",
+        "grade": "A"
+      },
+      {
+        "code": "CMP 417",
+        "title": "Advance Java",
+        "grade": "A"
+      }
+    ],
+    "sgpa": "3.84",
+    "status": "Pass"
+  },
+  {
+    "name": "Anju Bist",
+    "exam_roll": 21075051,
+    "courses": [
+      {
+        "code": "CMP 350",
+        "title": "Simulation and Modeling",
+        "grade": "F"
+      },
+      {
+        "code": "CMM 340",
+        "title": "Data Communication",
+        "grade": "C+"
+      },
+      {
+        "code": "CMP 320",
+        "title": "Object Oriented Software Engineering",
+        "grade": "C+"
+      },
+      {
+        "code": "ELX 312",
+        "title": "Embedded Systems",
+        "grade": "B-"
+      },
+      {
+        "code": "CMP 390",
+        "title": "Project II",
+        "grade": "A"
+      },
+      {
+        "code": "CMP 417",
+        "title": "Advance Java",
+        "grade": "B"
+      }
+    ],
+    "sgpa": "-",
+    "status": "Fail"
+  },
+  {
+    "name": "Asim Kusmi",
+    "exam_roll": 21075052,
+    "courses": [
+      {
+        "code": "CMP 350",
+        "title": "Simulation and Modeling",
+        "grade": "F"
+      },
+      {
+        "code": "CMM 340",
+        "title": "Data Communication",
+        "grade": "C-"
+      },
+      {
+        "code": "CMP 320",
+        "title": "Object Oriented Software Engineering",
+        "grade": "C-"
+      },
+      {
+        "code": "ELX 312",
+        "title": "Embedded Systems",
+        "grade": "C-"
+      },
+      {
+        "code": "CMP 390",
+        "title": "Project II",
+        "grade": "A-"
+      },
+      {
+        "code": "CMP 417",
+        "title": "Advance Java",
+        "grade": "C"
+      }
+    ],
+    "sgpa": "-",
+    "status": "Fail"
+  },
+  {
+    "name": "Bhagrathi Khadayat",
+    "exam_roll": 21075053,
+    "courses": [
+      {
+        "code": "CMP 350",
+        "title": "Simulation and Modeling",
+        "grade": "C-"
+      },
+      {
+        "code": "CMM 340",
+        "title": "Data Communication",
+        "grade": "C"
+      },
+      {
+        "code": "CMP 320",
+        "title": "Object Oriented Software Engineering",
+        "grade": "C"
+      },
+      {
+        "code": "ELX 312",
+        "title": "Embedded Systems",
+        "grade": "C"
+      },
+      {
+        "code": "CMP 390",
+        "title": "Project II",
+        "grade": "A"
+      },
+      {
+        "code": "CMP 417",
+        "title": "Advance Java",
+        "grade": "B-"
+      }
+    ],
+    "sgpa": "2.31",
+    "status": "Pass"
+  },
+  {
+    "name": "Bharat Gurdhami",
+    "exam_roll": 21075054,
+    "courses": [
+      {
+        "code": "CMP 350",
+        "title": "Simulation and Modeling",
+        "grade": "C-"
+      },
+      {
+        "code": "CMM 340",
+        "title": "Data Communication",
+        "grade": "F"
+      },
+      {
+        "code": "CMP 320",
+        "title": "Object Oriented Software Engineering",
+        "grade": "C+"
+      },
+      {
+        "code": "ELX 312",
+        "title": "Embedded Systems",
+        "grade": "C+"
+      },
+      {
+        "code": "CMP 390",
+        "title": "Project II",
+        "grade": "A"
+      },
+      {
+        "code": "CMP 417",
+        "title": "Advance Java",
+        "grade": "C+"
+      }
+    ],
+    "sgpa": "-",
+    "status": "Fail"
+  },
+  {
+    "name": "Bhoj Raj Joshi",
+    "exam_roll": 21075055,
+    "courses": [
+      {
+        "code": "CMP 350",
+        "title": "Simulation and Modeling",
+        "grade": "F"
+      },
+      {
+        "code": "CMM 340",
+        "title": "Data Communication",
+        "grade": "F"
+      },
+      {
+        "code": "CMP 320",
+        "title": "Object Oriented Software Engineering",
+        "grade": "F"
+      },
+      {
+        "code": "ELX 312",
+        "title": "Embedded Systems",
+        "grade": "F"
+      },
+      {
+        "code": "CMP 390",
+        "title": "Project II",
+        "grade": "A-"
+      },
+      {
+        "code": "CMP 417",
+        "title": "Advance Java",
+        "grade": "C-"
+      }
+    ],
+    "sgpa": "-",
+    "status": "Fail"
+  },
+  {
+    "name": "Bhupendra Raj Giri",
+    "exam_roll": 21075057,
+    "courses": [
+      {
+        "code": "CMP 350",
+        "title": "Simulation and Modeling",
+        "grade": "F"
+      },
+      {
+        "code": "CMM 340",
+        "title": "Data Communication",
+        "grade": "F"
+      },
+      {
+        "code": "CMP 320",
+        "title": "Object Oriented Software Engineering",
+        "grade": "F"
+      },
+      {
+        "code": "ELX 312",
+        "title": "Embedded Systems",
+        "grade": "F"
+      },
+      {
+        "code": "CMP 390",
+        "title": "Project II",
+        "grade": "B+"
+      },
+      {
+        "code": "CMP 417",
+        "title": "Advance Java",
+        "grade": "F"
+      }
+    ],
+    "sgpa": "-",
+    "status": "Fail"
+  },
+  {
+    "name": "Bhuwan Paneru",
+    "exam_roll": 21075058,
+    "courses": [
+      {
+        "code": "CMP 350",
+        "title": "Simulation and Modeling",
+        "grade": "A"
+      },
+      {
+        "code": "CMM 340",
+        "title": "Data Communication",
+        "grade": "A"
+      },
+      {
+        "code": "CMP 320",
+        "title": "Object Oriented Software Engineering",
+        "grade": "B+"
+      },
+      {
+        "code": "ELX 312",
+        "title": "Embedded Systems",
+        "grade": "A-"
+      },
+      {
+        "code": "CMP 390",
+        "title": "Project II",
+        "grade": "A"
+      },
+      {
+        "code": "CMP 417",
+        "title": "Advance Java",
+        "grade": "A"
+      }
+    ],
+    "sgpa": "3.82",
+    "status": "Pass"
+  },
+  {
+    "name": "Bibek Saud",
+    "exam_roll": 21075060,
+    "courses": [
+      {
+        "code": "CMP 350",
+        "title": "Simulation and Modeling",
+        "grade": "F"
+      },
+      {
+        "code": "CMM 340",
+        "title": "Data Communication",
+        "grade": "F"
+      },
+      {
+        "code": "CMP 320",
+        "title": "Object Oriented Software Engineering",
+        "grade": "F"
+      },
+      {
+        "code": "ELX 312",
+        "title": "Embedded Systems",
+        "grade": "C"
+      },
+      {
+        "code": "CMP 390",
+        "title": "Project II",
+        "grade": "A"
+      },
+      {
+        "code": "CMP 417",
+        "title": "Advance Java",
+        "grade": "C+"
+      }
+    ],
+    "sgpa": "-",
+    "status": "Fail"
+  },
+  {
+    "name": "Bidhya Budha",
+    "exam_roll": 21075061,
+    "courses": [
+      {
+        "code": "CMP 350",
+        "title": "Simulation and Modeling",
+        "grade": "C+"
+      },
+      {
+        "code": "CMM 340",
+        "title": "Data Communication",
+        "grade": "B+"
+      },
+      {
+        "code": "CMP 320",
+        "title": "Object Oriented Software Engineering",
+        "grade": "C+"
+      },
+      {
+        "code": "ELX 312",
+        "title": "Embedded Systems",
+        "grade": "B-"
+      },
+      {
+        "code": "CMP 390",
+        "title": "Project II",
+        "grade": "A"
+      },
+      {
+        "code": "CMP 417",
+        "title": "Advance Java",
+        "grade": "A-"
+      }
+    ],
+    "sgpa": "2.99",
+    "status": "Pass"
+  },
+  {
+    "name": "Bikram Parki",
+    "exam_roll": 21075062,
+    "courses": [
+      {
+        "code": "CMP 350",
+        "title": "Simulation and Modeling",
+        "grade": "C"
+      },
+      {
+        "code": "CMM 340",
+        "title": "Data Communication",
+        "grade": "B+"
+      },
+      {
+        "code": "CMP 320",
+        "title": "Object Oriented Software Engineering",
+        "grade": "A"
+      },
+      {
+        "code": "ELX 312",
+        "title": "Embedded Systems",
+        "grade": "C+"
+      },
+      {
+        "code": "CMP 390",
+        "title": "Project II",
+        "grade": "A"
+      },
+      {
+        "code": "CMP 417",
+        "title": "Advance Java",
+        "grade": "B"
+      }
+    ],
+    "sgpa": "3.05",
+    "status": "Pass"
+  },
+  {
+    "name": "Chandra Prakash Upreti",
+    "exam_roll": 21075063,
+    "courses": [
+      {
+        "code": "CMP 350",
+        "title": "Simulation and Modeling",
+        "grade": "A-"
+      },
+      {
+        "code": "CMM 340",
+        "title": "Data Communication",
+        "grade": "A"
+      },
+      {
+        "code": "CMP 320",
+        "title": "Object Oriented Software Engineering",
+        "grade": "A-"
+      },
+      {
+        "code": "ELX 312",
+        "title": "Embedded Systems",
+        "grade": "B+"
+      },
+      {
+        "code": "CMP 390",
+        "title": "Project II",
+        "grade": "A"
+      },
+      {
+        "code": "CMP 417",
+        "title": "Advance Java",
+        "grade": "A"
+      }
+    ],
+    "sgpa": "3.77",
+    "status": "Pass"
+  },
+  {
+    "name": "Deepak Pant",
+    "exam_roll": 21075064,
+    "courses": [
+      {
+        "code": "CMP 350",
+        "title": "Simulation and Modeling",
+        "grade": "F"
+      },
+      {
+        "code": "CMM 340",
+        "title": "Data Communication",
+        "grade": "C"
+      },
+      {
+        "code": "CMP 320",
+        "title": "Object Oriented Software Engineering",
+        "grade": "C-"
+      },
+      {
+        "code": "ELX 312",
+        "title": "Embedded Systems",
+        "grade": "C-"
+      },
+      {
+        "code": "CMP 390",
+        "title": "Project II",
+        "grade": "A"
+      },
+      {
+        "code": "CMP 417",
+        "title": "Advance Java",
+        "grade": "C+"
+      }
+    ],
+    "sgpa": "-",
+    "status": "Fail"
+  },
+  {
+    "name": "Devendra Bam Rajwar",
+    "exam_roll": 21075065,
+    "courses": [
+      {
+        "code": "CMP 350",
+        "title": "Simulation and Modeling",
+        "grade": "B+"
+      },
+      {
+        "code": "CMM 340",
+        "title": "Data Communication",
+        "grade": "B+"
+      },
+      {
+        "code": "CMP 320",
+        "title": "Object Oriented Software Engineering",
+        "grade": "B+"
+      },
+      {
+        "code": "ELX 312",
+        "title": "Embedded Systems",
+        "grade": "B+"
+      },
+      {
+        "code": "CMP 390",
+        "title": "Project II",
+        "grade": "A"
+      },
+      {
+        "code": "CMP 417",
+        "title": "Advance Java",
+        "grade": "A-"
+      }
+    ],
+    "sgpa": "3.45",
+    "status": "Pass"
+  },
+  {
+    "name": "Gyanu Kumari Bhatta",
+    "exam_roll": 21075066,
+    "courses": [
+      {
+        "code": "CMP 350",
+        "title": "Simulation and Modeling",
+        "grade": "F"
+      },
+      {
+        "code": "CMM 340",
+        "title": "Data Communication",
+        "grade": "C"
+      },
+      {
+        "code": "CMP 320",
+        "title": "Object Oriented Software Engineering",
+        "grade": "C+"
+      },
+      {
+        "code": "ELX 312",
+        "title": "Embedded Systems",
+        "grade": "C+"
+      },
+      {
+        "code": "CMP 390",
+        "title": "Project II",
+        "grade": "A"
+      },
+      {
+        "code": "CMP 417",
+        "title": "Advance Java",
+        "grade": "B+"
+      }
+    ],
+    "sgpa": "-",
+    "status": "Fail"
+  },
+  {
+    "name": "Hema Ojha",
+    "exam_roll": 21075067,
+    "courses": [
+      {
+        "code": "CMP 350",
+        "title": "Simulation and Modeling",
+        "grade": "C-"
+      },
+      {
+        "code": "CMM 340",
+        "title": "Data Communication",
+        "grade": "B+"
+      },
+      {
+        "code": "CMP 320",
+        "title": "Object Oriented Software Engineering",
+        "grade": "C"
+      },
+      {
+        "code": "ELX 312",
+        "title": "Embedded Systems",
+        "grade": "C"
+      },
+      {
+        "code": "CMP 390",
+        "title": "Project II",
+        "grade": "A"
+      },
+      {
+        "code": "CMP 417",
+        "title": "Advance Java",
+        "grade": "B"
+      }
+    ],
+    "sgpa": "2.59",
+    "status": "Pass"
+  },
+  {
+    "name": "Hemanti Mishra",
+    "exam_roll": 21075068,
+    "courses": [
+      {
+        "code": "CMP 350",
+        "title": "Simulation and Modeling",
+        "grade": "F"
+      },
+      {
+        "code": "CMM 340",
+        "title": "Data Communication",
+        "grade": "B+"
+      },
+      {
+        "code": "CMP 320",
+        "title": "Object Oriented Software Engineering",
+        "grade": "C+"
+      },
+      {
+        "code": "ELX 312",
+        "title": "Embedded Systems",
+        "grade": "C"
+      },
+      {
+        "code": "CMP 390",
+        "title": "Project II",
+        "grade": "A"
+      },
+      {
+        "code": "CMP 417",
+        "title": "Advance Java",
+        "grade": "B"
+      }
+    ],
+    "sgpa": "-",
+    "status": "Fail"
+  },
+  {
+    "name": "Jaynarayan Upadhyaya",
+    "exam_roll": 21075070,
+    "courses": [
+      {
+        "code": "CMP 350",
+        "title": "Simulation and Modeling",
+        "grade": "C-"
+      },
+      {
+        "code": "CMM 340",
+        "title": "Data Communication",
+        "grade": "B-"
+      },
+      {
+        "code": "CMP 320",
+        "title": "Object Oriented Software Engineering",
+        "grade": "C-"
+      },
+      {
+        "code": "ELX 312",
+        "title": "Embedded Systems",
+        "grade": "C"
+      },
+      {
+        "code": "CMP 390",
+        "title": "Project II",
+        "grade": "A"
+      },
+      {
+        "code": "CMP 417",
+        "title": "Advance Java",
+        "grade": "B-"
+      }
+    ],
+    "sgpa": "2.38",
+    "status": "Pass"
+  },
+  {
+    "name": "Kabita Dhakal",
+    "exam_roll": 21075071,
+    "courses": [
+      {
+        "code": "CMP 350",
+        "title": "Simulation and Modeling",
+        "grade": "C"
+      },
+      {
+        "code": "CMM 340",
+        "title": "Data Communication",
+        "grade": "B+"
+      },
+      {
+        "code": "CMP 320",
+        "title": "Object Oriented Software Engineering",
+        "grade": "C+"
+      },
+      {
+        "code": "ELX 312",
+        "title": "Embedded Systems",
+        "grade": "B+"
+      },
+      {
+        "code": "CMP 390",
+        "title": "Project II",
+        "grade": "A"
+      },
+      {
+        "code": "CMP 417",
+        "title": "Advance Java",
+        "grade": "B-"
+      }
+    ],
+    "sgpa": "2.87",
+    "status": "Pass"
+  },
+  {
+    "name": "Kalpana Bhatt",
+    "exam_roll": 21075072,
+    "courses": [
+      {
+        "code": "CMP 350",
+        "title": "Simulation and Modeling",
+        "grade": "F"
+      },
+      {
+        "code": "CMM 340",
+        "title": "Data Communication",
+        "grade": "C"
+      },
+      {
+        "code": "CMP 320",
+        "title": "Object Oriented Software Engineering",
+        "grade": "C+"
+      },
+      {
+        "code": "ELX 312",
+        "title": "Embedded Systems",
+        "grade": "C"
+      },
+      {
+        "code": "CMP 390",
+        "title": "Project II",
+        "grade": "A"
+      },
+      {
+        "code": "CMP 417",
+        "title": "Advance Java",
+        "grade": "B-"
+      }
+    ],
+    "sgpa": "-",
+    "status": "Fail"
+  },
+  {
+    "name": "Manisha Khadayat",
+    "exam_roll": 21075073,
+    "courses": [
+      {
+        "code": "CMP 350",
+        "title": "Simulation and Modeling",
+        "grade": "C"
+      },
+      {
+        "code": "CMM 340",
+        "title": "Data Communication",
+        "grade": "C+"
+      },
+      {
+        "code": "CMP 320",
+        "title": "Object Oriented Software Engineering",
+        "grade": "C+"
+      },
+      {
+        "code": "ELX 312",
+        "title": "Embedded Systems",
+        "grade": "C+"
+      },
+      {
+        "code": "CMP 390",
+        "title": "Project II",
+        "grade": "A"
+      },
+      {
+        "code": "CMP 417",
+        "title": "Advance Java",
+        "grade": "B-"
+      }
+    ],
+    "sgpa": "2.52",
+    "status": "Pass"
+  },
+  {
+    "name": "Niraj Prasad Paneru",
+    "exam_roll": 21075074,
+    "courses": [
+      {
+        "code": "CMP 350",
+        "title": "Simulation and Modeling",
+        "grade": "C"
+      },
+      {
+        "code": "CMM 340",
+        "title": "Data Communication",
+        "grade": "B-"
+      },
+      {
+        "code": "CMP 320",
+        "title": "Object Oriented Software Engineering",
+        "grade": "C+"
+      },
+      {
+        "code": "ELX 312",
+        "title": "Embedded Systems",
+        "grade": "C+"
+      },
+      {
+        "code": "CMP 390",
+        "title": "Project II",
+        "grade": "A"
+      },
+      {
+        "code": "CMP 417",
+        "title": "Advance Java",
+        "grade": "B-"
+      }
+    ],
+    "sgpa": "2.59",
+    "status": "Pass"
+  },
+  {
+    "name": "Nirmal Rana",
+    "exam_roll": 21075075,
+    "courses": [
+      {
+        "code": "CMP 350",
+        "title": "Simulation and Modeling",
+        "grade": "F"
+      },
+      {
+        "code": "CMM 340",
+        "title": "Data Communication",
+        "grade": "F"
+      },
+      {
+        "code": "CMP 320",
+        "title": "Object Oriented Software Engineering",
+        "grade": "F"
+      },
+      {
+        "code": "ELX 312",
+        "title": "Embedded Systems",
+        "grade": "F"
+      },
+      {
+        "code": "CMP 390",
+        "title": "Project II",
+        "grade": "A"
+      },
+      {
+        "code": "CMP 417",
+        "title": "Advance Java",
+        "grade": "C-"
+      }
+    ],
+    "sgpa": "-",
+    "status": "Fail"
+  },
+  {
+    "name": "Pooja Karki",
+    "exam_roll": 21075076,
+    "courses": [
+      {
+        "code": "CMP 350",
+        "title": "Simulation and Modeling",
+        "grade": "B"
+      },
+      {
+        "code": "CMM 340",
+        "title": "Data Communication",
+        "grade": "B"
+      },
+      {
+        "code": "CMP 320",
+        "title": "Object Oriented Software Engineering",
+        "grade": "C+"
+      },
+      {
+        "code": "ELX 312",
+        "title": "Embedded Systems",
+        "grade": "C-"
+      },
+      {
+        "code": "CMP 390",
+        "title": "Project II",
+        "grade": "A"
+      },
+      {
+        "code": "CMP 417",
+        "title": "Advance Java",
+        "grade": "B-"
+      }
+    ],
+    "sgpa": "2.71",
+    "status": "Pass"
+  },
+  {
+    "name": "Rabin Dangaura",
+    "exam_roll": 21075077,
+    "courses": [
+      {
+        "code": "CMP 350",
+        "title": "Simulation and Modeling",
+        "grade": "F"
+      },
+      {
+        "code": "CMM 340",
+        "title": "Data Communication",
+        "grade": "F"
+      },
+      {
+        "code": "CMP 320",
+        "title": "Object Oriented Software Engineering",
+        "grade": "F"
+      },
+      {
+        "code": "ELX 312",
+        "title": "Embedded Systems",
+        "grade": "F"
+      },
+      {
+        "code": "CMP 390",
+        "title": "Project II",
+        "grade": "A"
+      },
+      {
+        "code": "CMP 417",
+        "title": "Advance Java",
+        "grade": "C-"
+      }
+    ],
+    "sgpa": "-",
+    "status": "Fail"
+  },
+  {
+    "name": "Ram Thapa",
+    "exam_roll": 21075078,
+    "courses": [
+      {
+        "code": "CMP 350",
+        "title": "Simulation and Modeling",
+        "grade": "F"
+      },
+      {
+        "code": "CMM 340",
+        "title": "Data Communication",
+        "grade": "F"
+      },
+      {
+        "code": "CMP 320",
+        "title": "Object Oriented Software Engineering",
+        "grade": "F"
+      },
+      {
+        "code": "ELX 312",
+        "title": "Embedded Systems",
+        "grade": "F"
+      },
+      {
+        "code": "CMP 390",
+        "title": "Project II",
+        "grade": "A"
+      },
+      {
+        "code": "CMP 417",
+        "title": "Advance Java",
+        "grade": "F"
+      }
+    ],
+    "sgpa": "-",
+    "status": "Fail"
+  },
+  {
+    "name": "Raman Chaudhary",
+    "exam_roll": 21075079,
+    "courses": [
+      {
+        "code": "CMP 350",
+        "title": "Simulation and Modeling",
+        "grade": "F"
+      },
+      {
+        "code": "CMM 340",
+        "title": "Data Communication",
+        "grade": "D+"
+      },
+      {
+        "code": "CMP 320",
+        "title": "Object Oriented Software Engineering",
+        "grade": "D+"
+      },
+      {
+        "code": "ELX 312",
+        "title": "Embedded Systems",
+        "grade": "C"
+      },
+      {
+        "code": "CMP 390",
+        "title": "Project II",
+        "grade": "A"
+      },
+      {
+        "code": "CMP 417",
+        "title": "Advance Java",
+        "grade": "C+"
+      }
+    ],
+    "sgpa": "-",
+    "status": "Fail"
+  },
+  {
+    "name": "Rohit Chaudhary",
+    "exam_roll": 21075080,
+    "courses": [
+      {
+        "code": "CMP 350",
+        "title": "Simulation and Modeling",
+        "grade": "C-"
+      },
+      {
+        "code": "CMM 340",
+        "title": "Data Communication",
+        "grade": "C-"
+      },
+      {
+        "code": "CMP 320",
+        "title": "Object Oriented Software Engineering",
+        "grade": "B-"
+      },
+      {
+        "code": "ELX 312",
+        "title": "Embedded Systems",
+        "grade": "C"
+      },
+      {
+        "code": "CMP 390",
+        "title": "Project II",
+        "grade": "A"
+      },
+      {
+        "code": "CMP 417",
+        "title": "Advance Java",
+        "grade": "B-"
+      }
+    ],
+    "sgpa": "2.38",
+    "status": "Pass"
+  },
+  {
+    "name": "Salina Biswokarma",
+    "exam_roll": 21075081,
+    "courses": [
+      {
+        "code": "CMP 350",
+        "title": "Simulation and Modeling",
+        "grade": "C+"
+      },
+      {
+        "code": "CMM 340",
+        "title": "Data Communication",
+        "grade": "C+"
+      },
+      {
+        "code": "CMP 320",
+        "title": "Object Oriented Software Engineering",
+        "grade": "B-"
+      },
+      {
+        "code": "ELX 312",
+        "title": "Embedded Systems",
+        "grade": "B"
+      },
+      {
+        "code": "CMP 390",
+        "title": "Project II",
+        "grade": "A"
+      },
+      {
+        "code": "CMP 417",
+        "title": "Advance Java",
+        "grade": "B+"
+      }
+    ],
+    "sgpa": "2.87",
+    "status": "Pass"
+  },
+  {
+    "name": "Spikar Shahi",
+    "exam_roll": 21075084,
+    "courses": [
+      {
+        "code": "CMP 350",
+        "title": "Simulation and Modeling",
+        "grade": "D+"
+      },
+      {
+        "code": "CMM 340",
+        "title": "Data Communication",
+        "grade": "C"
+      },
+      {
+        "code": "CMP 320",
+        "title": "Object Oriented Software Engineering",
+        "grade": "C-"
+      },
+      {
+        "code": "ELX 312",
+        "title": "Embedded Systems",
+        "grade": "C-"
+      },
+      {
+        "code": "CMP 390",
+        "title": "Project II",
+        "grade": "B+"
+      },
+      {
+        "code": "CMP 417",
+        "title": "Advance Java",
+        "grade": "NQ"
+      }
+    ],
+    "sgpa": "-",
+    "status": "Fail"
+  },
+  {
+    "name": "Subodh Awasthi",
+    "exam_roll": 21075085,
+    "courses": [
+      {
+        "code": "CMP 350",
+        "title": "Simulation and Modeling",
+        "grade": "C"
+      },
+      {
+        "code": "CMM 340",
+        "title": "Data Communication",
+        "grade": "B-"
+      },
+      {
+        "code": "CMP 320",
+        "title": "Object Oriented Software Engineering",
+        "grade": "B-"
+      },
+      {
+        "code": "ELX 312",
+        "title": "Embedded Systems",
+        "grade": "A-"
+      },
+      {
+        "code": "CMP 390",
+        "title": "Project II",
+        "grade": "A"
+      },
+      {
+        "code": "CMP 417",
+        "title": "Advance Java",
+        "grade": "A-"
+      }
+    ],
+    "sgpa": "3.08",
+    "status": "Pass"
+  },
+  {
+    "name": "Sulochana Bhatta",
+    "exam_roll": 21075086,
+    "courses": [
+      {
+        "code": "CMP 350",
+        "title": "Simulation and Modeling",
+        "grade": "B"
+      },
+      {
+        "code": "CMM 340",
+        "title": "Data Communication",
+        "grade": "B+"
+      },
+      {
+        "code": "CMP 320",
+        "title": "Object Oriented Software Engineering",
+        "grade": "B"
+      },
+      {
+        "code": "ELX 312",
+        "title": "Embedded Systems",
+        "grade": "B-"
+      },
+      {
+        "code": "CMP 390",
+        "title": "Project II",
+        "grade": "A"
+      },
+      {
+        "code": "CMP 417",
+        "title": "Advance Java",
+        "grade": "B+"
+      }
+    ],
+    "sgpa": "3.17",
+    "status": "Pass"
+  },
+  {
+    "name": "Surendra Deuba",
+    "exam_roll": 21075087,
+    "courses": [
+      {
+        "code": "CMP 350",
+        "title": "Simulation and Modeling",
+        "grade": "C"
+      },
+      {
+        "code": "CMM 340",
+        "title": "Data Communication",
+        "grade": "D+"
+      },
+      {
+        "code": "CMP 320",
+        "title": "Object Oriented Software Engineering",
+        "grade": "D+"
+      },
+      {
+        "code": "ELX 312",
+        "title": "Embedded Systems",
+        "grade": "C-"
+      },
+      {
+        "code": "CMP 390",
+        "title": "Project II",
+        "grade": "B+"
+      },
+      {
+        "code": "CMP 417",
+        "title": "Advance Java",
+        "grade": "C"
+      }
+    ],
+    "sgpa": "1.85",
+    "status": "Pass"
+  },
+  {
+    "name": "Sushil Chaudhary",
+    "exam_roll": 21075088,
+    "courses": [
+      {
+        "code": "CMP 350",
+        "title": "Simulation and Modeling",
+        "grade": "D+"
+      },
+      {
+        "code": "CMM 340",
+        "title": "Data Communication",
+        "grade": "C+"
+      },
+      {
+        "code": "CMP 320",
+        "title": "Object Oriented Software Engineering",
+        "grade": "C"
+      },
+      {
+        "code": "ELX 312",
+        "title": "Embedded Systems",
+        "grade": "C-"
+      },
+      {
+        "code": "CMP 390",
+        "title": "Project II",
+        "grade": "A-"
+      },
+      {
+        "code": "CMP 417",
+        "title": "Advance Java",
+        "grade": "B-"
+      }
+    ],
+    "sgpa": "2.20",
+    "status": "Pass"
+  },
+  {
+    "name": "Tanjan Singh Karki",
+    "exam_roll": 21075089,
+    "courses": [
+      {
+        "code": "CMP 350",
+        "title": "Simulation and Modeling",
+        "grade": "B-"
+      },
+      {
+        "code": "CMM 340",
+        "title": "Data Communication",
+        "grade": "B+"
+      },
+      {
+        "code": "CMP 320",
+        "title": "Object Oriented Software Engineering",
+        "grade": "B-"
+      },
+      {
+        "code": "ELX 312",
+        "title": "Embedded Systems",
+        "grade": "B+"
+      },
+      {
+        "code": "CMP 390",
+        "title": "Project II",
+        "grade": "A"
+      },
+      {
+        "code": "CMP 417",
+        "title": "Advance Java",
+        "grade": "A-"
+      }
+    ],
+    "sgpa": "3.24",
+    "status": "Pass"
+  }
+]

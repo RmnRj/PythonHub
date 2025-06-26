@@ -128,7 +128,6 @@ for roll in range(start_roll, end_roll + 1):
         except Exception as e:
             print(f"  Error extracting courses for {roll}: {e}")
 
-        # 3. Extract SGPA
         try:
             sgpa_td = soup.find('td', string=re.compile(r'SGPA\s*=', re.IGNORECASE))
             if sgpa_td:
@@ -139,8 +138,8 @@ for roll in range(start_roll, end_roll + 1):
                     student_data["sgpa"] = sgpa_text
                     print(f"  SGPA: {student_data['sgpa']}")
                     if sgpa_text == "-":
-                        student_data["status"] = "Fail" # Set status to Fail
-                    elif sgpa_text != "-" and student_data["sgpa"] is not None: # A != None [this is also correct]
+                        student_data["status"] = "Fail" 
+                    elif sgpa_text != "-" and student_data["sgpa"] is not None: 
                         student_data["status"] = "Pass"
                 else:
                     print(f"  Warning: SGPA label found for {roll}, but value could not be extracted.")
@@ -160,7 +159,7 @@ for roll in range(start_roll, end_roll + 1):
     finally:
         results.append(student_data)
 
-# --- Finalization ---
+
 driver.quit() 
 
 try:

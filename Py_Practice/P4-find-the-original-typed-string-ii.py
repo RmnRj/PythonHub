@@ -22,23 +22,55 @@ Output: 8
 '''
 
 class Solution:
-    __ExtractedText = ["",""]
-    def Solution(self, word, k):
+    
+    def __init__(self, word, k):
         self.__word = word
         self.__k = k
+        self.__ExtractedText = []
+        self.__result = [] #Vertical line
+        self.__n = [] # T find length of each individual charaters 
+
     
     def __seperator(self):
-        self.__i = 0 
-        temp = self.__word[0]
+        m = 0
+        i = -1
+        temp = ""
+        text = ""
         for char in self.__word:
-            if temp != char:
-                self.__i += 1
+            if temp != char:  # change character
                 temp = char
-            self.__ExtractedText[self.__i] += char
+                self.__ExtractedText.append(text) # append in list
+                #text = ""
+                i += 1
+                self.__n[i] = 0 
+                m += 1
+            self.__n[i] += 1 # count no of single character repeated Ex. text = "aaaa" then n[] = 4
+        self.__ExtractedText.append(text)
+        return m
     
-    def __arranger(self):
-        self._counter = 0
-        for chars in self.__ExtractedText:
-            for i in chars:
-                #incomplete
-                x = 0
+
+    def __addResult(self, n,m):
+        for i in range(m):
+            for values in self.__ExtractedText[i]:
+                x = 0 ######################################## Here ################
+
+
+    def solver(self):
+        m = self.__seperator()
+        N = 0
+        n = self.__n
+        N = 1
+        for values in n:
+            N *= values # used to find how many possible results
+
+        for i in range(N):
+            for j in range(m):
+                if i == 0:
+                    n[j] = 0
+
+        # print(self.__V)
+        # for values in self.__ExtractedText:
+        #     print(values)
+
+soln = Solution("aaabbbccc", 5)
+soln.solver()

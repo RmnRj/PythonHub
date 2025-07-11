@@ -31,46 +31,66 @@ class Solution:
         self.__n = [] # T find length of each individual charaters 
 
     
-    def __seperator(self):
+    def __characterCounter(self):
         m = 0
-        i = -1
-        temp = ""
-        text = ""
+        temp = None
+        count = 0
+        self.__n = []
+        self.__ExtractedText = []
         for char in self.__word:
-            if temp != char:  # change character
+            if temp != char:
+                if temp is not None:
+                    self.__n.append(count)
+                    self.__ExtractedText.append(temp)
                 temp = char
-                self.__ExtractedText.append(text) # append in list
-                #text = ""
-                i += 1
-                self.__n[i] = 0 
+                count = 1
                 m += 1
-            self.__n[i] += 1 # count no of single character repeated Ex. text = "aaaa" then n[] = 4
-        self.__ExtractedText.append(text)
+            else:
+                count += 1
+        if temp is not None:
+            self.__n.append(count)
+            self.__ExtractedText.append(temp)
         return m
-    
-
-    def __addResult(self, n,m):
-        for i in range(m):
-            for values in self.__ExtractedText[i]:
-                x = 0 ######################################## Here ################
-
+        # m is the number of unique characters in the word
 
     def solver(self):
-        m = self.__seperator()
-        N = 0
+
+        m = self.__characterCounter()
         n = self.__n
-        N = 1
-        for values in n:
-            N *= values # used to find how many possible results
+        k = self.__k
+        MOD = 10**9 + 7 # Modulo for large numbers set limit of the result.
+        maxlen = sum(n)
+        # DP for count
+        dp = [0] * (maxlen + 1)
+        dp[0] = 1
+        for idx in range(m):
+            cnt = n[idx]
+            ndp = [0] * (maxlen + 1)
+            for l in range(maxlen + 1):
+                if dp[l]:
+                    for take in range(1, cnt + 1):
+                        if l + take <= maxlen:
+                            ndp[l + take] = (ndp[l + take] + dp[l]) % MOD
+            dp = ndp
+        ans = 0
+        for l in range(k, maxlen + 1):
+            ans = (ans + dp[l]) % MOD
+        print(ans)
 
-        for i in range(N):
-            for j in range(m):
-                if i == 0:
-                    n[j] = 0
+        # Generate all possible original strings of length at least k
+        results = []
+        def backtrack(idx, curr, currlen):
+            if idx == m:
+                if currlen >= k:
+                    results.append(''.join(curr))
+                return
+            for take in range(1, n[idx]+1):
+                backtrack(idx+1, curr + [self.__ExtractedText[idx]*take], currlen+take)
 
-        # print(self.__V)
-        # for values in self.__ExtractedText:
-        #     print(values)
+        backtrack(0, [], 0)
+        print("Possible outcomes:")
+        for s in sorted(results, reverse=True):
+            print(s)
 
-soln = Solution("aaabbbccc", 5)
+soln = Solution("aaabbb", 3)
 soln.solver()
